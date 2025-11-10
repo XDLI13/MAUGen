@@ -1,0 +1,38 @@
+[
+    {
+        "image": "output_images/0.png",
+        "intensity": [
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            3,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "prompt": "Displaying moderate warm smile, the face exhibits moderately raised cheeks, clear lip separation and chin in neutral stance."
+    },
+    {
+        "image": "output_images/1.png",
+        "intensity": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "prompt": "With distinct contented surprise apparent, the face shows clear calm nose position, relaxed brow, well-defined lip corner raise and firmly separated lips."
+    }
+]
